@@ -20,7 +20,7 @@ const workerConfig = {
       id: 'blog',
       name: "blog",
       method: 'GET',
-      target: 'https://notion-next-wukaiges-projects.vercel.app/',
+      target: 'https://blog.wukaige.com/',
       statusPageLink: 'https://blog.wukaige.com/',
     },
     {
